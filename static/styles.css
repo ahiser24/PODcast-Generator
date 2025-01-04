@@ -1,0 +1,150 @@
+/* General styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #333; /* Dark background */
+    color: #eee; /* Light text color */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: #eee;
+    text-align: center;
+}
+
+/* Container for the main content */
+.container {
+    background-color: #222; /* Darker background for the container */
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* More pronounced shadow */
+    max-width: 800px;
+    width: 100%;
+}
+
+/* Style for input fields and buttons */
+input[type="text"],
+input[type="password"],
+textarea,
+button {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #555; /* Darker border */
+    border-radius: 3px;
+
+    box-sizing: border-box;
+    background-color: #444; /* Dark background for input fields */
+    color: #eee; /* Light text color for input fields */
+}
+
+/* Expanded text box area */
+textarea#podcast-script {
+    height: 200px; /* Adjust the height as needed */
+    width: 800px;
+}
+
+button {
+    background-color: #008CBA; /* Updated button color */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #007a99; /* Darker button color on hover */
+}
+
+/* Style for the lists of uploaded files and URLs */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Style for the "Remove" buttons */
+li button {
+    background-color: #d9534f; /* Red background for remove buttons */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10px; /* Space between text and button */
+    padding: 5px 10px; /* Adjust padding to control size */
+}
+
+li button:hover {
+    background-color: #c9302c; /* Darker red on hover */
+}
+
+/* Style for the language selection dropdown */
+select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #555;
+    border-radius: 3px;
+    width: 100%;
+    box-sizing: border-box;
+    appearance: none;
+    background-color: #444; /* Dark background for dropdown */
+    color: #eee; /* Light text color for dropdown */
+    padding-right: 30px;
+}
+
+/* Style for the progress indicator */
+#progress-indicator {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #008CBA; /* Updated color for progress indicator */
+}
+
+/* ... other styles ... */
+
+/* Style for labels */
+label {
+    display: block; /* Makes the label a block-level element */
+    margin-bottom: 5px; /* Adds space between the label and the input field */
+    text-align: left; /* Aligns the label text to the left */
+}
+
+/* ... other styles ... */
+
+/* Style for the audio playback and download elements */
+#audio-playback,
+#audio-download {
+    margin-top: 20px;
+    color: #008CBA;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    textarea,
+    button {
+        width: 100%;
+    }
+}
+
+/* New styles for button and input field positioning */
+.input-group {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+}
+
+.input-group input {
+    width: calc(100% - 120px); /* Adjust width to accommodate the button */
+    margin-right: 10px; /* Add space between input and button */
+}
