@@ -1,0 +1,44 @@
+Speaker A: So, I was checking out Andrew Hiser's resume, and wow, this guy has a pretty diverse tech background, right? I mean, from network engineering to Microsoft 365, it's like he's done it all.
+Speaker B: Absolutely, you know, it's not often you see someone with that kind of range. I mean, he started as a Network Engineer and now he's into cloud, it shows he's not afraid to adapt, ah, that’s really valuable in this field.
+Speaker A: Right. And it looks like he's pretty deep into the Microsoft ecosystem. It mentions SharePoint, Teams, and Power Platform, which is a pretty serious commitment.
+Speaker B: Yeah, it's like he’s not just using the tools, but he understands how they all fit together. It's like, he's not just fixing the car, he understands the entire engine.
+Speaker A: I see that he has some Azure certifications too, right? The Fundamentals and the Administrator Associate. Those are not easy to get, you know?
+Speaker B: That's correct, those certifications, they demonstrate a solid understanding of Azure, it's like getting your pilot's license for cloud computing.
+Speaker A: So, it seems like he’s transitioning into a cloud engineer role, based on his stated goal. Does that make sense given his experience?
+Speaker B: It absolutely does, actually. It’s a natural progression, like he's building on his existing skills in a logical way, almost like he's leveling up his character.
+Speaker A: He was a Team Lead, and a Knowledge Base Administrator. It shows leadership, right? and the ability to organize information?
+Speaker B: Yeah, that kind of experience is super valuable because it demonstrates he can manage people and knowledge, kind of like a coach and librarian combined.
+Speaker A: So, he was involved in Microsoft 365 migrations, which seems to be a recurring theme in his experience?
+Speaker B: Well, that’s a big one. Migrations are complex and require attention to detail, so it’s like performing open heart surgery in the IT world.
+Speaker A: Okay, so what about the Network Engineer role? How does that fit into his trajectory?
+Speaker B: Well, having that network background gives him a strong foundation, it's like, he understands the roads that all the digital traffic travels on, you know?
+Speaker A: He also configured VPNs and MFA. Those are key for security, right?
+Speaker B: Precisely, that shows he understands not just the functionality, but the security aspect, it’s like he’s putting up a fence around the digital yard.
+Speaker A: I noticed he developed an IT Hardware Inventory system. Seems like he is able to manage resources effectively.
+Speaker B: Yeah, that’s a great skill, I mean, you can’t manage what you can’t measure, it's like having a detailed map of your digital possessions.
+Speaker A: So, it’s interesting that he developed custom scripts or tools, that's definitely above and beyond?
+Speaker B: That shows he’s not just a user, but a problem solver who can automate tasks, it's like he can build his own digital tools.
+Speaker A: And he even has volunteer experience, leading field trips with 4th graders. That's surprising but really cool.
+Speaker B: That is a nice touch, it shows he has soft skills and can communicate effectively, it’s like he’s nurturing the next generation of tech enthusiasts.
+Speaker A: So, he also mentions some personal projects on his site, like a tool for gamers and a caption translator. He has got hobbies too!
+Speaker B: Exactly, that’s really cool. He’s not just a corporate drone, he’s exploring his passions through tech, it’s like a glimpse into what makes him tick.
+Speaker A: It seems like he's a pretty good all-rounder. What do you think is the most standout aspect of his experience?
+Speaker B: Well, I think it's that blend of hands-on technical skills with project management and people skills, you know? It's like he's not just a technician, but a leader.
+Speaker A: It also looks like he has solid customer support experience, from multiple roles. That must be handy.
+Speaker B: That's true, that customer support experience gives him empathy, which is invaluable, its’ like he’s the front line and the back end all in one.
+Speaker A: So, from your perspective, he’s well-positioned to transition into a cloud engineer, right?
+Speaker B: Absolutely. He’s got the certifications, the experience, and the drive, I mean, it’s like all the pieces are in place for him to soar in the cloud.
+Speaker A: He has a lot of project experience, but what do you make of the types of projects he managed?
+Speaker B: Well, the types of projects are really indicative, he can take on a migration, and then dive into development, ah, which shows flexibility and versatility.
+Speaker A: Okay, that makes sense. And he’s been recognized for his contributions, he won an IT Rock Star Team Award.
+Speaker B: Yeah, and it shows he is not just recognized, but appreciated by his peers, it’s like a digital badge of honor, you know?
+Speaker A: It seems like he was able to work with users and collaborate with other IT teams, which is essential for any tech role?
+Speaker B: Totally, and he was a trainer as well, so he can share his knowledge, and it’s like he can both build the tools and teach others how to use them.
+Speaker A: Okay, so considering everything, what should he highlight for potential employers in his cloud engineer job search?
+Speaker B: Well, it's that combination of Azure expertise, project management, and his ability to bridge the gap between tech and business needs, it’s like he’s got the whole package.
+Speaker A: So, all this experience points to someone who is not just technically skilled, but also adaptable and a great communicator, would you agree?
+Speaker B: Exactly. He’s like a Swiss Army knife of IT. He can handle both the technical details and the bigger picture, ah, which is very rare.
+Speaker A: So, what would be the one piece of advice you would give him to nail his next cloud role?
+Speaker B: I think that he should continue to leverage his broad range of skills, but zero in on his cloud expertise and articulate how that can help the business succeed, its like telling a story but with a technological twist.
+Speaker A: That's great advice. It sounds like Andrew Hiser is someone who could really make an impact in a cloud engineer role.
+Speaker B: Yes, and based on what I’m seeing, he is a good example of how diverse experiences can lead to success in the ever-evolving world of tech, you know?
